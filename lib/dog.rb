@@ -13,3 +13,5 @@ class Dog
         self.name
         self.breed
     end
+    
+  end
